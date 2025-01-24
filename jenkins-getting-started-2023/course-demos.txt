@@ -1,0 +1,4 @@
+- https://github.com/g0t4/course3-jenkins-gs
+    - Files for creating demo environments used in the course (Docker Compose based)
+- https://github.com/g0t4/course3-jenkins-gs-spring-petclinic
+    - Sample project used in jobs in Jenkins throughout the course
